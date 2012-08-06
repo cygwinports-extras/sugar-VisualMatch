@@ -1,0 +1,4 @@
+inherit sugar
+
+
+SRC_URI="http://download.sugarlabs.org/sources/honey/Visualmatch/VisualMatch-${PV}.tar.bz2"
