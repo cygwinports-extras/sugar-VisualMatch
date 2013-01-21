@@ -1,3 +1,6 @@
+NAME="sugar-VisualMatch"
+VERSION=45
+RELEASE=1
 inherit sugar
 
 
